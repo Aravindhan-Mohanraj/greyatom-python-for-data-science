@@ -1,0 +1,1 @@
+In this project, we would have used some random bank loan data and used it to visualize it in an interactive manner.
